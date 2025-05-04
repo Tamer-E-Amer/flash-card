@@ -113,7 +113,7 @@ export const questions = [
 ## 📸 Demo
 
 > **Published on Vercel**  
-> [Flash card](https://flsh-card.app/)
+> [Flash card](https://flash-card-henna-ten.vercel.app/)
 
 ---
 
